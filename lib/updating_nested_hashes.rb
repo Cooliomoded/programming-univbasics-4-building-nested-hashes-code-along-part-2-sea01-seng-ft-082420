@@ -53,4 +53,5 @@ def add_characters
     {:name => "Prince Escalue"},
     {:name => "Apothecary"}
   ]
+end
    epic_tragedy
